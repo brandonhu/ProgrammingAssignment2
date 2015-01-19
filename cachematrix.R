@@ -1,5 +1,5 @@
 ## Edited by Brandon Hu 
-## Date: 24/08/2014
+## Modified Date: 19/01/2015
 ## Description: Contains 2 functions
 ## makeCacheMatrix: setter and getter methods of the cached matrix
 ## cacheSolve: return the cached inverse matrix
